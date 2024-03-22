@@ -1,0 +1,29 @@
+{
+  "name": "quasiexcepturi",
+  "version": "1.0.0",
+  "description": "A simple MD4 hash function for JavaScript supports UTF-8 encoding.",
+  "main": "src/md4.js",
+  "devDependencies": {
+    "expect.js": "~0.3.1",
+    "jscoverage": "~0.5.9",
+    "jsdoc": "^3.4.0",
+    "mocha": "~2.3.4",
+    "uglifyjs": "~2.4.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ReneeRussel/quasiexcepturi.git"
+  },
+  "keywords": [
+    "itaque",
+    "sed",
+    "voluptatem",
+    "quidem",
+    "similique"
+  ],
+  "license": "MIT",
+  "author": "LeilaniBrown",
+  "bugs": {
+    "url": "https://github.com/ReneeRussel/quasiexcepturi.git/issues"
+  }
+}
